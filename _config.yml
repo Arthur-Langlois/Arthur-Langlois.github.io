@@ -22,29 +22,25 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "data/picture.jpg"
+  avatar           : "picture.jpg"
   name             : "Arthur Langlois"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Research Fellow at Coase-Sandor Institute for Law and Economics @UChicago Law"
   location         : "Chicago"
   employer         : "University of Chicago"
-  uri              : # URL
   email            : "arthurlanglois@uchicago.edu" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=dpAtBI4AAAAJ&hl=en&inst=5778974199078678248"
 
 
   # Repositories and software development
 
-  github           : "academicpages"
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  github           : "https://github.com/Arthur-Langlois"
+  stackoverflow    : # 12724297
 
   # Social media
-  goodreads        : # Username
   linkedin         : # https://www.linkedin.com/in/arthur-langlois-9916bb17b/
-  
   twitter          : # Arthur54652649
 
 
